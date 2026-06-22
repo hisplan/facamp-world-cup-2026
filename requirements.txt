@@ -1,0 +1,20 @@
+# notebook
+jupyterlab
+
+# data frame
+pandas
+tabulate
+
+# visualization
+matplotlib
+seaborn
+
+# numerical computing
+numpy
+
+# data serialization
+pyarrow
+
+# machine learning
+scikit-learn
+xgboost
