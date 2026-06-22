@@ -1,5 +1,7 @@
 # facamp-world-cup-2026
 
+"나는 데이터로 축구한다"
+
 Predicting FIFA World Cup 2026 with Machine Learning
 
 ## Setup
