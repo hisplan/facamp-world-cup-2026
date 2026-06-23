@@ -2,7 +2,7 @@
 
 "나는 데이터로 축구한다"
 
-Predicting FIFA World Cup 2026 with Machine Learning
+Predicting FIFA World Cup 2026 Match Outcomes and Scores Using Machine Learning
 
 ## Setup
 
